@@ -1,6 +1,6 @@
 # MyWeb
 Demo:
-<img width="351" height="239" alt="image" src="https://github.com/user-attachments/assets/1aeb2f2a-8a18-401d-b1c9-12bc50f2aaf4" />
+<img width="1024" height="697" alt="image" src="https://github.com/user-attachments/assets/cb8b2986-9e07-4661-a216-fd6db51cd51f" />
 
 1. Chủ đề chính
 Website là một cửa hàng trực tuyến chuyên kinh doanh linh kiện bộ nhớ máy tính mang tên RAM Store. Mục tiêu của trang web là cung cấp các giải pháp nâng cấp tốc độ cho cả PC và Laptop thông qua các sản phẩm RAM chính hãng.
