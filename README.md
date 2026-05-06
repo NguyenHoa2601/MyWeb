@@ -2,7 +2,6 @@ Demo:
 <img width="558" height="1024" alt="image" src="https://github.com/user-attachments/assets/672e1fdd-a56f-4b7c-9461-302c1c50003e" />
 <img width="404" height="1024" alt="image" src="https://github.com/user-attachments/assets/748ada1e-0f90-47e3-a0e2-dfef27c65038" />
 <img width="565" height="1024" alt="image" src="https://github.com/user-attachments/assets/02ca48ae-4c6a-467e-aa8a-b79968061788" />
-<img width="360" height="367" alt="image" src="https://github.com/user-attachments/assets/6d275845-7127-4af4-bda7-c18733b32ca2" />
 <img width="1004" height="1024" alt="image" src="https://github.com/user-attachments/assets/0d90ec2e-10d0-48f3-a470-8dd7975b9eb9" />
 
 1. Chủ đề & Mục tiêu
