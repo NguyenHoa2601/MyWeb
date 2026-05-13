@@ -1,5 +1,3 @@
-Demo:
-<img width="558" height="1024" alt="image" src="https://github.com/user-attachments/assets/672e1fdd-a56f-4b7c-9461-302c1c50003e" />
 <img width="404" height="1024" alt="image" src="https://github.com/user-attachments/assets/748ada1e-0f90-47e3-a0e2-dfef27c65038" />
 <img width="565" height="1024" alt="image" src="https://github.com/user-attachments/assets/02ca48ae-4c6a-467e-aa8a-b79968061788" />
 <img width="1004" height="1024" alt="image" src="https://github.com/user-attachments/assets/0d90ec2e-10d0-48f3-a470-8dd7975b9eb9" />
@@ -22,6 +20,10 @@ III. Cấu Trúc 04 Trang Cốt Lõi
 Hệ thống website RAM SPECIALIST được xây dựng dựa trên cấu trúc 05 trang mục tiêu, đảm bảo quy trình trải nghiệm khách hàng từ khâu tìm kiếm đến khi hoàn tất đơn hàng.
 
 Trang Chủ (trangchu.html): Đây là điểm chạm đầu tiên đóng vai trò dẫn dắt người dùng thông qua các banner khuyến mãi bắt mắt, danh mục sản phẩm nổi bật và các dòng RAM mới nhất trên thị trường.
+
+Bản vẽ:
+<img width="558" height="1024" alt="image" src="https://github.com/user-attachments/assets/672e1fdd-a56f-4b7c-9461-302c1c50003e" />
+
 
 Trang Danh Mục (danhmuc.html): Nơi tích hợp hệ thống bộ lọc thông minh giúp khách hàng dễ dàng phân loại sản phẩm theo nhu cầu cụ thể như DDR4 hay DDR5, hiển thị dưới dạng lưới trực quan kèm giá bán và nút mua nhanh.
 
