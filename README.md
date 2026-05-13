@@ -1,7 +1,10 @@
 1. Mô tả chức năng và nhiệm vụ các trang
+
 Hệ thống website được thiết kế với 04 trang cốt lõi, đảm bảo quy trình mua sắm khép kín:
 
-Trang Chủ (trangchu.html): * Chức năng: Giới thiệu thương hiệu, hiển thị các banner khuyến mãi và các dòng sản phẩm RAM mới nhất (DDR5).
+Trang Chủ (trangchu.html): 
+
+ Chức năng: Giới thiệu thương hiệu, hiển thị các banner khuyến mãi và các dòng sản phẩm RAM mới nhất (DDR5).
 
 Nhiệm vụ: Thu hút người dùng và điều hướng nhanh đến các danh mục sản phẩm nổi bật.
 
