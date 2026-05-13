@@ -61,9 +61,6 @@ Gemini: Hỗ trợ tư vấn thiết kế và nội dung
 Phân vùng: Các khối nội dung được bao bọc trong các khung (border) mảnh, tạo cảm giác ngăn nắp, hiện đại.
 
 VI. Dòng lệnh sử dụng AI (Prompt)
-Công cụ AI: Gemini 1.5 Pro
-
-Dòng lệnh (Prompt) đã sử dụng:
 
 "Hãy tạo giúp tôi một trang web bán linh kiện máy tính tên là 'RAM SPECIALIST'. Yêu cầu: Sử dụng HTML5 và CSS3 hiện đại. Giao diện có Header màu xanh đen, có Sidebar bên trái để lọc sản phẩm theo loại RAM (DDR4, DDR5), phần nội dung chính hiển thị các thẻ sản phẩm (Product Cards) dưới dạng lưới (Grid). Các thẻ sản phẩm phải có hiệu ứng hover nổi lên, hiển thị hình ảnh, tên RAM, giá tiền và có 2 nút: Mua ngay và Chi tiết. Hãy đảm bảo giao diện hiển thị tốt trên cả máy tính và điện thoại (Responsive)."
 
