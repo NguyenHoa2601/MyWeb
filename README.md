@@ -1,4 +1,3 @@
-<img width="404" height="1024" alt="image" src="https://github.com/user-attachments/assets/748ada1e-0f90-47e3-a0e2-dfef27c65038" />
 <img width="565" height="1024" alt="image" src="https://github.com/user-attachments/assets/02ca48ae-4c6a-467e-aa8a-b79968061788" />
 <img width="1004" height="1024" alt="image" src="https://github.com/user-attachments/assets/0d90ec2e-10d0-48f3-a470-8dd7975b9eb9" />
 
@@ -35,7 +34,15 @@ Bản vẽ:
 
 Trang Chi Tiết Sản Phẩm (sanpham.html): Cung cấp đầy đủ thông số kỹ thuật chuyên sâu như Timing, Voltage hay loại Chip, kết hợp cùng hình ảnh đa góc độ và những đánh giá thực tế từ cộng đồng.
 
+Bản vẽ:
+
+<img width="404" height="1024" alt="image" src="https://github.com/user-attachments/assets/748ada1e-0f90-47e3-a0e2-dfef27c65038" />
+
 Trang Giỏ Hàng (giohang.html): Được thiết kế tối giản nhằm tối ưu hóa việc quản lý số lượng hàng hóa và dẫn dắt người dùng qua quy trình đặt hàng 03 bước chặt chẽ từ thông tin, vận chuyển đến thanh toán.
+
+Bản vẽ:
+
+<img width="565" height="1024" alt="image" src="https://github.com/user-attachments/assets/02ca48ae-4c6a-467e-aa8a-b79968061788" />
 
 IV. Thiết Kế Giao Diện (UI) & Bố Cục
 Bố cục tổng thể: Sử dụng cấu trúc Sidebar (cột bên trái) dành cho bộ lọc và Main Content (nội dung chính) bên phải để hiển thị sản phẩm.
