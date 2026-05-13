@@ -1,4 +1,5 @@
 I. Tổng Quan Dự Án
+
 RAM SPECIALIST là một website chuyên biệt cung cấp các giải pháp bộ nhớ trong (RAM) cho máy tính. Dự án tập trung vào trải nghiệm mua sắm tối giản, hiệu quả và tối ưu hóa quy trình tra cứu thông số kỹ thuật cho người dùng.
 
 Công cụ thực hiện: Visual Studio Code (VS Code).
@@ -6,7 +7,9 @@ Công cụ thực hiện: Visual Studio Code (VS Code).
 Ngôn ngữ sử dụng: HTML5, CSS3.
 
 II. Mô Tả Chi Tiết Các Trang Chức Năng
+
 1. Trang Chủ (trangchu.html)
+
 Chức năng: Điểm chạm đầu tiên, giới thiệu thương hiệu và các sản phẩm nổi bật, dòng RAM mới nhất (DDR5).
 
 Nhiệm vụ: Điều hướng người dùng đến các danh mục sản phẩm và cung cấp cái nhìn tổng quan về chương trình khuyến mãi.
@@ -19,6 +22,7 @@ Thiết kế:
 Công cụ thiết kế: Figma/Mockup tools.
 
 2. Trang Danh Mục (danhmuc.html)
+
 Chức năng: Hiển thị danh sách sản phẩm dưới dạng lưới (Grid).
 
 Nhiệm vụ: Tích hợp bộ lọc (Sidebar) giúp khách hàng phân loại nhanh theo thế hệ RAM (DDR4, DDR5) và thương hiệu.
@@ -31,6 +35,7 @@ Thiết kế:
 Công cụ thiết kế: Figma/Mockup tools.
 
 3. Trang Chi Tiết Sản Phẩm (sanpham.html)
+
 Chức năng: Cung cấp thông tin chuyên sâu.
 
 Nhiệm vụ: Hiển thị bảng thông số kỹ thuật (Bus, Timing, Voltage), hình ảnh chi tiết và mô tả sản phẩm để hỗ trợ quyết định mua hàng.
@@ -43,6 +48,7 @@ Thiết kế:
 Công cụ thiết kế: Figma/Mockup tools.
 
 4. Trang Giỏ Hàng (giohang.html)
+
 Chức năng: Quản lý lựa chọn mua sắm.
 
 Nhiệm vụ: Hiển thị danh sách sản phẩm đã chọn, tính toán tổng tiền, áp dụng mã giảm giá và dẫn dắt người dùng đến bước thanh toán.
