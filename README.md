@@ -69,6 +69,7 @@ https://nguyenhoa2601.github.io/MyWeb/myweb/trangchu.html
 V. Cấu Trúc Thư Mục Dự Án
 
 MyWeb/myweb
+     
       ├── HTML/
       │   ├── trangchu.html
       │   ├── danhmuc.html
