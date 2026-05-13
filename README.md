@@ -32,7 +32,7 @@ Hệ thống giao diện được phác thảo dựa trên phong cách Minimalis
 Bản vẽ thiết kế:
 
 
-<img width="558" height="1024" alt="image" src="https://github.com/user-attachments/assets/672e1fdd-a56f-4b7c-9461-302c1c50003e" />
+<img width="692" height="727" alt="image" src="https://github.com/user-attachments/assets/3d8cdd0a-5766-4cca-ab01-276b534e229c" />
 
 
 <img width="565" height="1024" alt="image" src="https://github.com/user-attachments/assets/02ca48ae-4c6a-467e-aa8a-b79968061788" />
