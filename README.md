@@ -47,7 +47,10 @@ Chức năng: Quản lý lựa chọn mua sắm.
 
 Nhiệm vụ: Hiển thị danh sách sản phẩm đã chọn, tính toán tổng tiền, áp dụng mã giảm giá và dẫn dắt người dùng đến bước thanh toán.
 
-Thiết kế: Bản vẽ thiết kế Trang Giỏ Hàng
+Thiết kế: 
+
+<img width="1004" height="1024" alt="image" src="https://github.com/user-attachments/assets/0d90ec2e-10d0-48f3-a470-8dd7975b9eb9" />
+
 
 Công cụ thiết kế: Figma/Mockup tools.
 
